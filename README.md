@@ -1,6 +1,10 @@
 <link rel="stylesheet" href="style.css">
 
-# Fair Fight Scouter - For [Torn](https://www.torn.com/2670953), by [rDacted](https://www.torn.com/profiles.php?XID=2670953)
+# OBSOLETE: This version of FF Scouter has been replaced by https://ffscouter.com.
+
+# DO NOT USE THIS VERSION, IT WILL NOT WORK!
+
+# For historical purposes only: Fair Fight Scouter - For [Torn](https://www.torn.com/2670953), by [rDacted](https://www.torn.com/profiles.php?XID=2670953)
 
 **Please read this document all the way though**
 
